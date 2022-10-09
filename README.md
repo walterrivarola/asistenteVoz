@@ -1,5 +1,5 @@
 Este proyecto tiene como función demostrar los conocimientos adquiridos para crear un asistente personal.
-Se utilizaron las siguientes librerias
+Se utilizaron las siguientes librerias:
 
 import pyttsx3
 import speech_recognition
